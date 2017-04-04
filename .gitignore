@@ -1,0 +1,9 @@
+.metadata/
+.settings
+target
+.classpath
+.project
+.recommenders
+.DS_Store
+suffixtree/bin
+suffixtree/out/
